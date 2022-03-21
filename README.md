@@ -3,9 +3,7 @@
 ## terraform details
 ### create instance
 #### command
-'''
-terraform init
 
+terraform init
 terraform plan
 terraform apply
-'''
